@@ -1,5 +1,5 @@
 {
-  "name": "@rotorz/unity3d-utils",
+  "name": "com.guanshichao.unity3d-utils",
   "version": "1.0.1",
   "description": "Common utility functionality for Unity game projects.",
   "main": "index.js",
